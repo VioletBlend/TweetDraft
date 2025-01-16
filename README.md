@@ -1,4 +1,4 @@
-# x.com（旧ツイッター）に下書きしてからポストします。
+# x.com（旧ツイッター）に下書きした後にポストします。
 
 ![image](https://github.com/user-attachments/assets/0c39c347-3c1c-4aa2-a8eb-0909e7534c1f)
 
