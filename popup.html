@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tweet Draft</title>
+    <style>
+        body {
+            width: 300px;
+            padding: 10px;
+        }
+        textarea {
+            width: 100%;
+            height: 150px;
+            resize: none;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            background-color: #1DA1F2;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0d95e8;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tweet Draft</h1>
+    <textarea id="tweetText"></textarea>
+    <button id="saveDraft">Save Draft</button>
+    <button id="sendTweet">Tweet</button>
+    <script src="popup.js"></script>
+</body>
+</html>
